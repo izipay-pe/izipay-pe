@@ -4,7 +4,7 @@
 <br />
 <br />
 
-<a target="_blank" href="https://github.com/lyra">
+<a target="_blank" href="https://secure.micuentaweb.pe/doc/es-PE/">
   <img src="http://34.176.164.120/wp-content/uploads/2024/01/1.png" alt="Izipay Developer Cover" width="100%" height="70"></a>
 
 <br />
@@ -55,7 +55,7 @@ Lista de ejemplo de proyectos:  <br />
 
 - [Proyecto en JavaScript](https://github.com/izipay-pe/Embedded-PaymentForm-JavaScript): Desarrollado con JavaScript, incluye la integración de la pasarela Izipay para manejar transacciones de manera segura.
   
-- [Proyecto en Python - Django](https://github.com/izipay-pe/Embedded-PaymentForm-Django): Desarrollado con Python - Django, incluye la integración de la pasarela para manejar transacciones de manera segura.
+- [Proyecto en Python - Django](https://github.com/izipay-pe/Embedded-PaymentForm-Python-Django): Desarrollado con Python - Django, incluye la integración de la pasarela para manejar transacciones de manera segura.
   
 - [Proyecto en.Net](https://github.com/izipay-pe/Embedded-PaymentForm-.NetCore): Desarrollado con .Net, incluye la integración de la pasarela Izipay para manejar transacciones de manera segura.
 
@@ -123,13 +123,14 @@ Lista de ejemplo de proyectos:  <br />
 #### Formulario Movil SDK
 
 <details><summary>Links</summary><p>
-#### Android
+
+###### Android
     
 - [Proyecto en Kotlin](https://github.com/izipay-pe/Sdk-PaymentForm-Kotlin): Una aplicación Kotlin con una integración elegante de iZipay para manejar pagos de manera eficiente.
     
 - [Proyecto en Java](https://github.com/izipay-pe/Sdk-PaymentForm-Java-Android): Una aplicación .Net con una integración elegante de iZipay para manejar pagos de manera eficiente.
 
-  #### IOS
+###### IOS
   
 - [Proyecto en Swift](https://github.com/izipay-pe/Sdk-PaymentForm-swift): Una aplicación Swift con una integración elegante de iZipay para manejar pagos de manera eficiente.
   
