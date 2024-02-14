@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://34.176.164.120/wp-content/uploads/2024/01/logo-Izipay.png" alt="Izipay Developer Cover" width="650" height="180">
+  <img src="https://github.com/izipay-pe/Imagenes/blob/main/logos_izipay/logo-izipay-sinFondo-2024x689.png?raw=true" alt="Izipay Developer Cover" width="650" height="200">
 </p>
 <br />
 <br />
