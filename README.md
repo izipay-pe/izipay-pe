@@ -5,7 +5,7 @@
 <br />
 
 <a target="_blank" href="https://secure.micuentaweb.pe/doc/es-PE/">
-  <img src="http://34.176.164.120/wp-content/uploads/2024/01/1.png" alt="Izipay Developer Cover" width="100%" height="70"></a>
+  <img src="https://github.com/TestHt/imagenes/blob/main/banner-alert.png?raw=true" alt="Izipay Developer Cover" width="100%" height="70"></a>
 
 <br />
 <br />
@@ -21,24 +21,9 @@ iZipay es tu solución integral para la integración de pasarelas de pago en div
 ## 💼 Proyectos
 
 <p align="center">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=Node.js&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>&nbsp;&nbsp;
-
-
-
-
-
+  <img src="https://github.com/TestHt/imagenes/blob/main/iconos%20lenguajes.png?raw=true" alt="Izipay Developer Cover" >
 </p>
+
 <br />
 
 Lista de ejemplo de proyectos:  <br />
