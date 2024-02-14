@@ -120,13 +120,16 @@ Lista de ejemplo de proyectos:  <br />
 </p></details>
  
 
-#### Mobiles SDK
+#### Formulario Movil SDK
 
 <details><summary>Links</summary><p>
+#### Android
     
 - [Proyecto en Kotlin](https://github.com/izipay-pe/Sdk-PaymentForm-Kotlin): Una aplicación Kotlin con una integración elegante de iZipay para manejar pagos de manera eficiente.
     
 - [Proyecto en Java](https://github.com/izipay-pe/Sdk-PaymentForm-Java-Android): Una aplicación .Net con una integración elegante de iZipay para manejar pagos de manera eficiente.
+
+  #### IOS
   
 - [Proyecto en Swift](https://github.com/izipay-pe/Sdk-PaymentForm-swift): Una aplicación Swift con una integración elegante de iZipay para manejar pagos de manera eficiente.
   
@@ -137,15 +140,15 @@ Lista de ejemplo de proyectos:  <br />
 <details><summary>Links</summary><p>
 
 ###### IPN
-- [Proyecto en Php](): Una aplicación Php con una integración elegante de iZipay para manejar pagos de manera eficiente.
+- [Proyecto en Php](): Desarrollado en Php, es un sistema de notificación de servidor a servidor que informa sobre el resultado de un pago.
     
-- [Proyecto en JavaScript-Express](): Una aplicación JavaScript-Express con una integración elegante de iZipay para manejar pagos de manera eficiente.
+- [Proyecto en JavaScript-Express](): Desarrollado en JavaScript-Express, es un sistema de notificación de servidor a servidor que informa sobre el resultado de un pago.
   
 
 ###### FormToken
-- [Proyecto en Php](): Una aplicación Php con una integración elegante de iZipay para manejar pagos de manera eficiente.
+- [Proyecto en Php](): Desarrollado en Php, El FormToken es una clave temporal que encapsula los detalles esenciales de una transacción de pago, facilitando su procesamiento seguro y eficiente.
     
-- [Proyecto en JavaScript-Express](): Una aplicación JavaScript-Express con una integración elegante de iZipay para manejar pagos de manera eficiente.
+- [Proyecto en JavaScript-Express](): Desarrollado en JavaScript-Express El FormToken es una clave temporal que encapsula los detalles esenciales de una transacción de pago, facilitando su procesamiento seguro y eficiente.
 
   
 </p></details>
