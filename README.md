@@ -90,7 +90,7 @@ Lista de ejemplo de proyectos:  <br />
     
 - [Proyecto en JavaScript](https://github.com/izipay-pe?tab=repositories): Desarrollado con JavaScript, incluye la integración de la pasarela Izipay para manejar transacciones de manera segura.
 
-- [Proyecto en.Net](https://github.com/izipay-pe?tab=repositories): Desarrollado con .Net, incluye la integración de la pasarela Izipay para manejar transacciones de manera segura.
+- [Proyecto en.Net](https://github.com/izipay-pe/Redirect-PaymentForm-.NetCore): Desarrollado con .Net, incluye la integración de la pasarela Izipay para manejar transacciones de manera segura.
   
   
 
