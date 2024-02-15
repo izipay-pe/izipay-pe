@@ -136,6 +136,12 @@ Lista de ejemplo de proyectos:  <br />
     
 - [Proyecto en JavaScript-Express](): Desarrollado en JavaScript-Express El FormToken es una clave temporal que encapsula los detalles esenciales de una transacción de pago, facilitando su procesamiento seguro y eficiente.
 
+
+###### Personalización
+- [Formulario Popin](https://github.com/izipay-pe/Personalizacion/blob/main/Formulario%20Popin/style-formulario-Popin.css): Utiliza el script para personalizar el formulario de pago de iZiPay y crear una experiencia de usuario única y atractiva.
+  
+- [Formulario Incrustado](https://github.com/izipay-pe/Personalizacion/blob/main/Formulario%20Incrustado/style-formulario-incrustado.css): Utiliza el script para personalizar el formulario de pago de iZiPay y crear una experiencia de usuario única y atractiva.
+
   
 </p></details>
 
