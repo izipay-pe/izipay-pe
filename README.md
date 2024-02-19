@@ -128,13 +128,13 @@ Lista de ejemplo de proyectos:  <br />
 ###### IPN
 - [Proyecto en Php](): Desarrollado en Php, es un sistema de notificación de servidor a servidor que informa sobre el resultado de un pago.
     
-- [Proyecto en JavaScript-Express](): Desarrollado en JavaScript-Express, es un sistema de notificación de servidor a servidor que informa sobre el resultado de un pago.
+- [Proyecto en JavaScript-Express](https://github.com/izipay-pe/Server-IPN-JavaScript): Desarrollado en JavaScript-Express, es un sistema de notificación de servidor a servidor que informa sobre el resultado de un pago.
   
 
 ###### FormToken
 - [Proyecto en Php](): Desarrollado en Php, El FormToken es una clave temporal que encapsula los detalles esenciales de una transacción de pago, facilitando su procesamiento seguro y eficiente.
     
-- [Proyecto en JavaScript-Express](): Desarrollado en JavaScript-Express El FormToken es una clave temporal que encapsula los detalles esenciales de una transacción de pago, facilitando su procesamiento seguro y eficiente.
+- [Proyecto en JavaScript-Express](https://github.com/izipay-pe/Server-FormToken-Javascript): Desarrollado en JavaScript-Express El FormToken es una clave temporal que encapsula los detalles esenciales de una transacción de pago, facilitando su procesamiento seguro y eficiente.
 
 
 ###### Personalización
