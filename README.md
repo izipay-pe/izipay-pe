@@ -90,9 +90,12 @@ Lista de ejemplo de proyectos:  <br />
 
   <details><summary>Links</summary><p>
     
-- [Proyecto en Php](https://github.com/izipay-pe?tab=repositories): Desarrollado con PHP, incluye la integración de la pasarela Izipay para manejar transacciones de manera segura.
+- [Proyecto en Php](https://github.com/izipay-pe/Redirect-PaymentForm-Php): Desarrollado con PHP, incluye la integración de la pasarela Izipay para manejar transacciones de manera segura.
     
 - [Proyecto en JavaScript](https://github.com/izipay-pe/Redirect-PaymentForm-JavaScript): Desarrollado con JavaScript, incluye la integración de la pasarela Izipay para manejar transacciones de manera segura.
+- [Proyecto en Laravel](https://github.com/izipay-pe/Redirect-PaymentForm-Laravel): Desarrollado con Laravel, incluye la integración de la pasarela Izipay para manejar transacciones de manera segura.
+
+- [Proyecto en Python - Django](https://github.com/izipay-pe/Redirect-PaymentForm-Python-Django): Desarrollado con Python - Django, incluye la integración de la pasarela para manejar transacciones de manera segura.
   
 - [Proyecto en Python - Flask](https://github.com/izipay-pe/Redirect-PaymentForm-Python-Flask): Desarrollado con Python - Flask, incluye la integración de la pasarela para manejar transacciones de manera segura.
 
@@ -144,7 +147,7 @@ Lista de ejemplo de proyectos:  <br />
 
 
 ###### Personalización
-- [Formulario Popin](https://github.com/izipay-pe/Personalizacion/tree/main/Formulario%20Popin): Utiliza el script para personalizar el formulario de pago de iZiPay y crear una experiencia de usuario única y atractiva.
+- [Formulario Popin](https://github.com/izipay-pe/Personalizacion/edit/main/Formulario%20Popin/Style-Personalization-PopIn.css): Utiliza el script para personalizar el formulario de pago de iZiPay y crear una experiencia de usuario única y atractiva.
   
 - [Formulario Incrustado](https://github.com/izipay-pe/Personalizacion/tree/main/Formulario%20Incrustado): Utiliza el script para personalizar el formulario de pago de iZiPay y crear una experiencia de usuario única y atractiva.
 
