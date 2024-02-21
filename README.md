@@ -32,7 +32,7 @@ Lista de ejemplo de proyectos:  <br />
 
   <details><summary>Links</summary><p>
     
-- [Proyecto en Php](https://github.com/izipay-pe/Embedded-PaymentForm-PHP): Desarrollado con PHP, incluye la integración de la pasarela Izipay para manejar transacciones de manera segura.
+- <a href="https://github.com/izipay-pe/Embedded-PaymentForm-PHP" target="_blank">Proyecto en PHP </a>: Desarrollado con PHP, incluye la integración de la pasarela Izipay para manejar transacciones de manera segura.
   
 - [Proyecto en Php-SDK](https://github.com/izipay-pe/Embedded-PaymentForm-PHP-SDK): Desarrollado con PHP-SDK, incluye la integración de la pasarela Izipay para manejar transacciones de manera segura.
   
@@ -40,7 +40,11 @@ Lista de ejemplo de proyectos:  <br />
 
 - [Proyecto en JavaScript](https://github.com/izipay-pe/Embedded-PaymentForm-JavaScript): Desarrollado con JavaScript, incluye la integración de la pasarela Izipay para manejar transacciones de manera segura.
   
+- [Proyecto en Java](https://github.com/izipay-pe/Embedded-PaymentForm-Java): Desarrollado con Java, incluye la integración de la pasarela Izipay para manejar transacciones de manera segura.
+    
 - [Proyecto en Python - Django](https://github.com/izipay-pe/Embedded-PaymentForm-Python-Django): Desarrollado con Python - Django, incluye la integración de la pasarela para manejar transacciones de manera segura.
+
+- [Proyecto en Python - Flask](https://github.com/izipay-pe/Embedded-PaymentForm-Python-Flask): Desarrollado con Python - Flask, incluye la integración de la pasarela para manejar transacciones de manera segura.
   
 - [Proyecto en.Net](https://github.com/izipay-pe/Embedded-PaymentForm-.NetCore): Desarrollado con .Net, incluye la integración de la pasarela Izipay para manejar transacciones de manera segura.
 
@@ -68,6 +72,8 @@ Lista de ejemplo de proyectos:  <br />
 
 - [Proyecto en Python - Django](https://github.com/izipay-pe/PopIn-PaymentForm-Python-Django): Desarrollado con Python - Django, incluye la integración de la pasarela para manejar transacciones de manera segura.
 
+- [Proyecto en Python - Flask](https://github.com/izipay-pe/PopIn-PaymentForm-Python-Flask): Desarrollado con Python - Flask, incluye la integración de la pasarela para manejar transacciones de manera segura.
+
 - [Proyecto en.Net](https://github.com/izipay-pe/PopIn-PaymentForm-.NetCore): Desarrollado con .Net, incluye la integración de la pasarela Izipay para manejar transacciones de manera segura.
   
 - [Proyecto en React](https://github.com/izipay-pe/PopIn-PaymentForm-React): Desarrollado con React, incluye la integración de la pasarela Izipay para manejar transacciones de manera segura.
@@ -85,10 +91,10 @@ Lista de ejemplo de proyectos:  <br />
   <details><summary>Links</summary><p>
     
 - [Proyecto en Php](https://github.com/izipay-pe?tab=repositories): Desarrollado con PHP, incluye la integración de la pasarela Izipay para manejar transacciones de manera segura.
-
-- [Proyecto en Php-SDK](https://github.com/izipay-pe?tab=repositories): Desarrollado con PHP-SDK, incluye la integración de la pasarela Izipay para manejar transacciones de manera segura.
     
-- [Proyecto en JavaScript](https://github.com/izipay-pe?tab=repositories): Desarrollado con JavaScript, incluye la integración de la pasarela Izipay para manejar transacciones de manera segura.
+- [Proyecto en JavaScript](https://github.com/izipay-pe/Redirect-PaymentForm-JavaScript): Desarrollado con JavaScript, incluye la integración de la pasarela Izipay para manejar transacciones de manera segura.
+  
+- [Proyecto en Python - Flask](https://github.com/izipay-pe/Redirect-PaymentForm-Python-Flask): Desarrollado con Python - Flask, incluye la integración de la pasarela para manejar transacciones de manera segura.
 
 - [Proyecto en.Net](https://github.com/izipay-pe/Redirect-PaymentForm-.NetCore): Desarrollado con .Net, incluye la integración de la pasarela Izipay para manejar transacciones de manera segura.
   
@@ -138,9 +144,9 @@ Lista de ejemplo de proyectos:  <br />
 
 
 ###### Personalización
-- [Formulario Popin](https://github.com/izipay-pe/Personalizacion/blob/main/Formulario%20Popin/style-formulario-Popin.css): Utiliza el script para personalizar el formulario de pago de iZiPay y crear una experiencia de usuario única y atractiva.
+- [Formulario Popin](https://github.com/izipay-pe/Personalizacion/tree/main/Formulario%20Popin): Utiliza el script para personalizar el formulario de pago de iZiPay y crear una experiencia de usuario única y atractiva.
   
-- [Formulario Incrustado](https://github.com/izipay-pe/Personalizacion/blob/main/Formulario%20Incrustado/style-formulario-incrustado.css): Utiliza el script para personalizar el formulario de pago de iZiPay y crear una experiencia de usuario única y atractiva.
+- [Formulario Incrustado](https://github.com/izipay-pe/Personalizacion/tree/main/Formulario%20Incrustado): Utiliza el script para personalizar el formulario de pago de iZiPay y crear una experiencia de usuario única y atractiva.
 
   
 </p></details>
