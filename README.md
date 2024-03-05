@@ -134,13 +134,18 @@ Lista de ejemplo de proyectos:  <br />
 
 <details><summary>Links</summary><p>
 
-- [Proyecto en Flutter](https://github.com/izipay-pe/Webview-Redirect-Flutter-Dart): Una aplicación Flutter con una integración elegante de iZipay para manejar pagos de manera eficiente.
-  
-- [Proyecto en Ionic-Angular](https://github.com/izipay-pe/Embedded-PaymentForm-Ionic-Angular): Una aplicación Ionic - Angular, con una integración elegante de iZipay para manejar pagos de manera eficiente.
-      
+#### Incrustado
 
-    
+- [Proyecto en React-Native](https://github.com/izipay-pe/Embedded-PaymentForm-ReactNative-Sdk): Desarrollado con React-Native , incluye la integración de la pasarela Izipay para manejar transacciones de manera segura.
+
+- [Proyecto en Ionic-Angular](https://github.com/izipay-pe/Embedded-PaymentForm-Ionic-Angular): Desarrollado con Ionic-Angular , incluye la integración de la pasarela Izipay para manejar transacciones de manera segura.
   
+      
+#### Redirección
+    
+- [Proyecto en Flutter](https://github.com/izipay-pe/Webview-Redirect-Flutter-Dart): Desarrollado con Flutter, incluye la integración de la pasarela Izipay para manejar transacciones de manera segura.
+
+- [Proyecto en React-Native ](https://github.com/izipay-pe/Webview-Redirect-ReactNative):Desarrollado con React-Native , incluye la integración de la pasarela Izipay para manejar transacciones de manera segura.
 
 </p></details>
 
