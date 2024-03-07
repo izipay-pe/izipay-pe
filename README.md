@@ -164,13 +164,46 @@ Lista de ejemplo de proyectos:  <br />
 - [Proyecto en Java](https://github.com/izipay-pe/Server-Webview-Java): Desarrollado en Java, El FormToken es una clave temporal que encapsula los detalles esenciales de una transacción de pago, facilitando su procesamiento seguro y eficiente.
 
 
-###### Personalización
-- [Formulario Popin](https://github.com/izipay-pe/Personalizacion/edit/main/Formulario%20Popin/Style-Personalization-PopIn.css): Utiliza el script para personalizar el formulario de pago de iZiPay y crear una experiencia de usuario única y atractiva.
-  
-- [Formulario Incrustado](https://github.com/izipay-pe/Personalizacion/tree/main/Formulario%20Incrustado): Utiliza el script para personalizar el formulario de pago de iZiPay y crear una experiencia de usuario única y atractiva.
-
   
 </p></details>
+
+#### Personalización CMS Open Source
+
+| Wordpress - Woocommerce        | Link                                                                      |
+|--------------------------------|---------------------------------------------------------------------------|
+| Incrustado Clasico             | [Personalization-Woocommerce-Incrustado-Classic](https://github.com/izipay-pe/Personalizacion/blob/main/Personalizaci%C3%B3n%20CMS%20Open%20Source/Wordpress/Tema%20Clasico/Personalization-Woocommerce-Incrustado-Classic.css) |
+| Pop-in Clasico                 | [Personalization-Woocommerce-Popin-Classic](https://github.com/izipay-pe/Personalizacion/blob/main/Personalizaci%C3%B3n%20CMS%20Open%20Source/Wordpress/Tema%20Clasico/Personalization-Woocommerce-Popin-Classic.css) |
+| Incrustado Neon                | [Personalization-Woocommerce-Incrustado-Neon](https://github.com/izipay-pe/Personalizacion/blob/main/Personalizaci%C3%B3n%20CMS%20Open%20Source/Wordpress/Tema%20Neon/Personalization-Woocommerce-Incrustado-Smartform-Neon.css) |
+| Pop-in Neon                    | [Personalization-Woocommerce-Popin-Neon](https://github.com/izipay-pe/Personalizacion/blob/main/Personalizaci%C3%B3n%20CMS%20Open%20Source/Wordpress/Tema%20Neon/Personalization-Woocommerce-Popin-Smartform-Neon.css) |
+
+| Prestashop - Prestashop  &nbsp; &nbsp; &nbsp; | Link                                                                      |
+|--------------------------------|---------------------------------------------------------------------------|
+| Incrustado Clasico             | [Personalization-Prestashop-Incrustado-Classic](https://github.com/izipay-pe/Personalizacion/blob/main/Personalizaci%C3%B3n%20CMS%20Open%20Source/Prestashop/Tema%20Clasico/Personalization-Prestashop-Incrustado-Classic.css) &nbsp; &nbsp; &nbsp; |
+| Pop-in Clasico                 | [Personalization-Prestashop-Popin-Classic](https://github.com/izipay-pe/Personalizacion/blob/main/Personalizaci%C3%B3n%20CMS%20Open%20Source/Prestashop/Tema%20Clasico/Personalization-Prestashop-Popin-Classic.css) |
+| Incrustado Neon                | [Personalization-Prestashop-Incrustado-Neon](https://github.com/izipay-pe/Personalizacion/blob/main/Personalizaci%C3%B3n%20CMS%20Open%20Source/Prestashop/Tema%20Neon/Personalization-Prestashop-Incrustado-Smartform-Neon.css) |
+| Pop-in Neon                    | [Personalization-Prestashop-Popin-Neon](https://github.com/izipay-pe/Personalizacion/blob/main/Personalizaci%C3%B3n%20CMS%20Open%20Source/Prestashop/Tema%20Neon/Personalization-Prestashop-Popin-Smartform-Neon.css) |
+
+| Adobe - Magento &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Link                                    |
+|--------------------------------|---------------------------------------------------------------------------|
+| Incrustado Clasico             | [Personalization-Magento-Incrustado-Classic](https://github.com/izipay-pe/Personalizacion/tree/main/Personalizaci%C3%B3n%20CMS%20Open%20Source/Magento/Tema%20Clasico) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| Pop-in Clasico                 | [Personalization-Magento-Popin-Classic](https://github.com/izipay-pe/Personalizacion/tree/main/Personalizaci%C3%B3n%20CMS%20Open%20Source/Magento/Tema%20Clasico) &nbsp; &nbsp; &nbsp; |
+| Incrustado Neon                | [Personalization-Magento-Incrustado-Neon](https://github.com/izipay-pe/Personalizacion/tree/main/Personalizaci%C3%B3n%20CMS%20Open%20Source/Magento/Tema%20Neon) &nbsp; &nbsp; &nbsp; |
+| Pop-in Neon                    | [Personalization-Magento-Popin-Neon](https://github.com/izipay-pe/Personalizacion/tree/main/Personalizaci%C3%B3n%20CMS%20Open%20Source/Magento/Tema%20Neon)  &nbsp; &nbsp; &nbsp;|
+
+
+| Formulario Redirección &nbsp; &nbsp; &nbsp; &nbsp; | Link       |
+|--------------------------------|---------------------------------------------------------------------------|
+| Woocommerce                    | [Personalization-Redirect](https://www.youtube.com/watch?v=hy877zTjpS0)   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| Magento                        | [Personalization-Redirect](https://www.youtube.com/watch?v=hy877zTjpS0)   |
+| Prestashop                     | [Personalization-Redirect](https://www.youtube.com/watch?v=hy877zTjpS0)   |
+| Opencart                       | [Personalization-Redirect](https://www.youtube.com/watch?v=hy877zTjpS0)   |
+| Joomla                         | [Personalization-Redirect](https://www.youtube.com/watch?v=hy877zTjpS0)   |
+| Odoo                           | [Personalization-Redirect](https://www.youtube.com/watch?v=hy877zTjpS0)   |
+
+| Desarrollo Propio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Link       |
+|--------------------------------|---------------------------------------------------------------------------|
+| Incrustado Clasico             | [Style-Personalization-Incrustado](https://github.com/izipay-pe/Personalizacion/blob/main/Formulario%20Incrustado/Style-Personalization-Incrustado.css)   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| Pop-in Clasico                 | [Style-Personalization-PopIn](https://github.com/izipay-pe/Personalizacion/blob/main/Formulario%20Popin/Style-Personalization-PopIn.css)   |
 
 
 ## Fuentes Oficiales
