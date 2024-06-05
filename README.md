@@ -26,7 +26,8 @@ iZipay es tu solución integral para la integración de pasarelas de pago en div
 
 <br />
 
-Lista de ejemplo de proyectos:  <br />
+### Lista de ejemplos de proyectos para web <br />
+#### Lista de ejemplos de proyectos para web <br />
 
 #### Formulario Web Incrustado
 
@@ -112,7 +113,9 @@ Lista de ejemplo de proyectos:  <br />
 - [Proyecto en NodeJs](https://github.com/izipay-pe/LinkPro-PaymentForm-NodeJS): Desarrollado con NodeJs, incluye la integración de la pasarela Izipay para manejar transacciones de manera segura.
     
 </p></details>
+
  
+#### Lista de ejemplos de proyectos para APP <br />
 
 #### Formulario Movil SDK
 
@@ -149,7 +152,7 @@ Lista de ejemplo de proyectos:  <br />
 
 </p></details>
 
-#### Servidores
+#### Servidores IPN | FormToken <br />
 
 <details><summary>Links</summary><p>
 
@@ -167,7 +170,9 @@ Lista de ejemplo de proyectos:  <br />
   
 </p></details>
 
-#### Personalización CMS Open Source
+## Personalización CMS Open Source <br />
+
+
 
 | Wordpress - Woocommerce        | Link                                                                      |
 |--------------------------------|---------------------------------------------------------------------------|
