@@ -26,7 +26,7 @@ iZipay es tu solución integral para la integración de pasarelas de pago en div
 
 <br />
 
-### Lista de ejemplos de proyectos para web <br />
+### Lista de ejemplos de proyectos para Web: <br />
 
 #### Formulario Web Incrustado
 
@@ -114,7 +114,7 @@ iZipay es tu solución integral para la integración de pasarelas de pago en div
 </p></details>
 
  
-### Lista de ejemplos de proyectos para APP <br />
+### Lista de ejemplos de proyectos para APP: <br />
 
 #### Formulario Movil SDK
 
