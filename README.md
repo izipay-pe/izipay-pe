@@ -45,7 +45,7 @@ iZipay es tu solución integral para la integración de pasarelas de pago en div
 
 - [Proyecto en Python - Flask](https://github.com/izipay-pe/Embedded-PaymentForm-Python-Flask): Desarrollado con Python - Flask, incluye la integración de la pasarela para manejar transacciones de manera segura.
   
-- [Proyecto en.Net](https://github.com/izipay-pe/Embedded-PaymentForm-.NET): Desarrollado con .Net, incluye la integración de la pasarela Izipay para manejar transacciones de manera segura.
+- [Proyecto en .NET](https://github.com/izipay-pe/Embedded-PaymentForm-.NET): Desarrollado con .Net, incluye la integración de la pasarela Izipay para manejar transacciones de manera segura.
 
 - [Proyecto en React](https://github.com/izipay-pe/Embedded-PaymentForm-React): Desarrollado con React, incluye la integración de la pasarela Izipay para manejar transacciones de manera segura.
   
@@ -73,7 +73,7 @@ iZipay es tu solución integral para la integración de pasarelas de pago en div
 
 - [Proyecto en Python - Flask](https://github.com/izipay-pe/PopIn-PaymentForm-Python-Flask): Desarrollado con Python - Flask, incluye la integración de la pasarela para manejar transacciones de manera segura.
 
-- [Proyecto en.Net](https://github.com/izipay-pe/PopIn-PaymentForm-.NetCore): Desarrollado con .Net, incluye la integración de la pasarela Izipay para manejar transacciones de manera segura.
+- [Proyecto en .NET](https://github.com/izipay-pe/PopIn-PaymentForm-.NET): Desarrollado con .Net, incluye la integración de la pasarela Izipay para manejar transacciones de manera segura.
   
 - [Proyecto en React](https://github.com/izipay-pe/PopIn-PaymentForm-React): Desarrollado con React, incluye la integración de la pasarela Izipay para manejar transacciones de manera segura.
 
